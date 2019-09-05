@@ -41,6 +41,11 @@
 1. 学习使用superagent抓取网页
 2. 学习使用cheerio分析网页
 
+#### superagent相关
+SuperAgent是一个轻量级、灵活的、易读的、低学习曲线的客户端请求代理模块，使用在NodeJS环境中。
+
+#### cheerio相关
+cheerio是jquery核心功能的一个快速灵活而又简洁的实现，主要是为了用在服务器端需要对DOM进行操作的地方
 #### 课程内容
 一直说Node.js的异步特性很厉害。那我们就用爬虫来体验一下。
 
