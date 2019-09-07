@@ -1,0 +1,14 @@
+{
+  "name": "lesson10",
+  "version": "1.0.0",
+  "description": "有一个字符串 var number = '100'，我们要将它转换成 Number 类型的 100。",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "benchmark": "^2.1.0"
+  }
+}

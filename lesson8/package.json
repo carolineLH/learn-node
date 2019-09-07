@@ -1,0 +1,19 @@
+{
+  "name": "lesson8",
+  "version": "1.0.0",
+  "description": "app.js其中有个fibonacci接口。fibonacci 的介绍见：http://en.wikipedia.org/wiki/Fibonacci_number 。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "should": "^4.0.4",
+    "supertest": "^0.14.0"
+  },
+  "dependencies": {
+    "express": "^4.9.6"
+  }
+}
