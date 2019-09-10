@@ -9,7 +9,7 @@ Lesson 4: 《使用 eventproxy 控制并发》<br>
 Lesson 5: 《使用 async 控制并发》<br>
 Lesson 6: 《测试用例：mocha，should，istanbul》<br>
 Lesson 7: 《浏览器端测试：mocha，chai，phantomjs》 <br>
-Lesson 8: 《测试用例：supertest》<br><br>
+Lesson 8: 《测试用例：supertest》<br>
 Lesson 9: 《正则表达式》<br>
 Lesson 10: 《benchmark 怎么写》<br>
 Lesson 11: 《作用域与闭包：this，var，(function () {})》 <br>
